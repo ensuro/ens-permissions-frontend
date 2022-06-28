@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ens-permissions-frontend/static/css/main.dccfdbaa.css",
+    "main.js": "/ens-permissions-frontend/static/js/main.03c702a2.js",
+    "static/js/787.cda612ba.chunk.js": "/ens-permissions-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/ens-permissions-frontend/index.html",
+    "main.dccfdbaa.css.map": "/ens-permissions-frontend/static/css/main.dccfdbaa.css.map",
+    "main.03c702a2.js.map": "/ens-permissions-frontend/static/js/main.03c702a2.js.map",
+    "787.cda612ba.chunk.js.map": "/ens-permissions-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dccfdbaa.css",
+    "static/js/main.03c702a2.js"
+  ]
+}
